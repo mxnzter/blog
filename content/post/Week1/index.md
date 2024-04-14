@@ -1,9 +1,9 @@
 ---
-title: Пост по прошедшей неделе (11-17 марта)!
+title: Пост по прошедшей неделе (11-17 марта)
 subtitle: Сейчас вы узнаете, что произошло за последнюю неделю.
 
 # Summary for listings and search engines
-summary: Сейчас вы узнаете, что произошло за последнюю неделю.
+summary: Здесь вы узнаете, что произошло за последнюю неделю.
 
 # Link this post with a project
 projects: []
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://disshelp.ru/blog/wp-content/uploads/2021/03/word-image-271-768x332.png)'
+  caption:
   focal_point: ''
   placement: 2
   preview_only: false

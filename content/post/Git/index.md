@@ -1,6 +1,6 @@
 ---
 title: Управление версиями. Git.
-subtitle: Здесь вы узнаете, что такое Git и что значит управление версиями.
+subtitle: Сейчас вы узнаете, что такое Git и что значит управление версиями.
 
 # Summary for listings and search engines
 summary: Здесь вы узнаете, что такое Git и что значит управление версиями.
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png)'
+  caption:
   focal_point: ''
   placement: 2
   preview_only: false
